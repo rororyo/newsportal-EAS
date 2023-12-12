@@ -1,0 +1,13 @@
+#logo-image {
+    width: 40px ;
+    height: 40px;
+}
+
+#navbar-div{
+    gap: 20px;
+}
+
+span.highlight{
+    font-weight: bold;
+    color: red;
+}
